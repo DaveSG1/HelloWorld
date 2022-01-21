@@ -19,9 +19,9 @@ Forkea este repo y añade tu rama -> develop_{alias}. Desde tu rama:
 Bienvenido a la nave, ¡despegamos!
 ```
 
-| id | Alias | Nombre | Apellido | Repositorio |
-| :-------: | :-------: | :------: | :------: | :-------: |
-
+|  id   |  Alias  | Nombre | Apellido |        Repositorio        |
+| :---: | :-----: | :----: | :------: | :-----------------------: |
+|   1   | DaveSG1 | David  |  Serna   | sin repositorios publicos |
 
 
 # More info
